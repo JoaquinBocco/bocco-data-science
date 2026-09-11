@@ -1,7 +1,6 @@
 # Data Science Portfolio — Joaquín Bocco
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Open Clustering in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinBocco/Data-science-portfolio/blob/main/Joaquin_Bocco_Clustering_Vinos.ipynb)
 [![Open ML Supervisado in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinBocco/Data-science-portfolio/blob/main/Joaquin_Bocco_ML_Supervisado_Vinos.ipynb)
 [![Open Autos in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoaquinBocco/Data-science-portfolio/blob/main/Joaquin_Bocco_Analisis_Autos_Usados.ipynb)
@@ -19,8 +18,6 @@ Estudiante de la Licenciatura en Física (UNC - FaMAF), con formación complemen
 ```
 Data-science-portfolio/
 ├── README.md
-├── LICENSE
-├── requirements.txt
 ├── Joaquin_Bocco_Clustering_Vinos.ipynb
 ├── Joaquin_Bocco_ML_Supervisado_Vinos.ipynb
 ├── Joaquin_Bocco_Analisis_Autos_Usados.ipynb
